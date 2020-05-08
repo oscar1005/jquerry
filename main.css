@@ -1,0 +1,26 @@
+p {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p span {
+	background-color: #9dc284;
+	padding: 5px;
+}
+#add-skill {
+	border: solid thin #9dc284;
+    color: #9dc284;
+    
+}
+#remove {
+	background-color: #d16d6a;
+	color: white;
+	border-radius: 5%;
+}
+input {
+	border: solid thin #9dc284;
+}
+div {
+    color: green ;
+    text-align: center;
+}
